@@ -1,0 +1,17 @@
+{
+  "random_forest": {
+    "MAE": 1.4341133949379745,
+    "RMSE": 3.1348238560326567,
+    "R2": 0.9154771988103085
+  },
+  "linear_regression_baseline": {
+    "MAE": 3.6869885847421755,
+    "RMSE": 7.514375173056652,
+    "R2": 0.5143388718009431
+  },
+  "test_size": 1190,
+  "train_size": 4759,
+  "feature_count": 1895,
+  "target_unit": "Indian Lakhs",
+  "random_state": 42
+}
